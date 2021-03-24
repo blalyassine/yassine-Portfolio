@@ -1,4 +1,4 @@
 # yassine-Portfolio
 portfolio 
 
-https://blalyassine.github.io/yassine-Portfolio/
+https://blalyassine.github.io/
